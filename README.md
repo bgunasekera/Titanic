@@ -1,2 +1,4 @@
 # Titanic
-Titanic Kaggle challenge analysis 
+Data = data files for analysis
+
+Titanic = data engineering + analysis
